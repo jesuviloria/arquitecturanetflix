@@ -8,10 +8,10 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.arquitecturanetflix</groupId>
-	<artifactId>arquitecturanetflix</artifactId>
+	<groupId>com.formacionbdi.springboot.app.productos</groupId>
+	<artifactId>springboot-servicio-productos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>arquitecturanetflix</name>
+	<name>springboot-servicio-productos</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
